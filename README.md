@@ -1,0 +1,1 @@
+This is a zombie infection simulation. Healthy school kids (images) play in a playground where a zombie is on the loose, targeting the children. If they get infected, they go to the "hospital" and re-emerge as healthy kids.
